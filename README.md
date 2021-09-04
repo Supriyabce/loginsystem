@@ -8,7 +8,7 @@
 1. Javascript
 1. JQuery
 1. MySQL
-##Project setup:
+## Project setup:
 1. Clone the repository using command git clone
 1. Install latest version of XAMPP.
 1. Move the project folder to the given location: C:\xampp\htdocs
