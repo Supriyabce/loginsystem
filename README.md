@@ -19,5 +19,5 @@
 1. Create a new databse named inter_project
 1. Upload the database file named crud.sql
 1. Now the project is completely setup.
-1. Go to http://localhost/inter_project and use the website.
-SCREENSHOT
+1. Go to http://localhost/PHP-MYSQL-LOGIN-SYSTEM-master/login.php and use the website.
+## SCREENSHOT
