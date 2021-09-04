@@ -1,5 +1,5 @@
 # loginsystem
-## comleted by supriya rani
+## completed by supriya rani
 ## Technology used:-
 1. HTML
 1. CSS
