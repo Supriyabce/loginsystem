@@ -1,23 +1,23 @@
 # loginsystem
-# comleted by princy
-# Technology used:-
-HTML
-CSS
-Bootstrap
-PHP
-Javascript
-JQuery
-MySQL
-Project setup:
-Clone the repository using command git clone
-Install latest version of XAMPP.
-Move the project folder to the given location: C:\xampp\htdocs
-Run the XAMPP control panel.
-Start Apache and MYSQL service.
-Open your browser.
-Go to the address: http://localhost/phpmyadmin
-Create a new databse named inter_project
-Upload the database file named crud.sql
-Now the project is completely setup.
-Go to http://localhost/inter_project and use the website.
+## comleted by supriya rani
+## Technology used:-
+1. HTML
+1. CSS
+1. Bootstrap
+1. PHP
+1. Javascript
+1. JQuery
+1. MySQL
+##Project setup:
+1. Clone the repository using command git clone
+1. Install latest version of XAMPP.
+1. Move the project folder to the given location: C:\xampp\htdocs
+1. Run the XAMPP control panel.
+1. Start Apache and MYSQL service.
+1. Open your browser.
+1. Go to the address: http://localhost/phpmyadmin
+1. Create a new databse named inter_project
+1. Upload the database file named crud.sql
+1. Now the project is completely setup.
+1. Go to http://localhost/inter_project and use the website.
 SCREENSHOT
