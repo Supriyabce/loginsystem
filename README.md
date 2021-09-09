@@ -3,7 +3,6 @@
 ## Technology used:-
 1. HTML
 1. CSS
-1. Bootstrap
 1. PHP
 1. MySQL
 ## Project setup:
