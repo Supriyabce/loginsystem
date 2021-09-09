@@ -5,8 +5,6 @@
 1. CSS
 1. Bootstrap
 1. PHP
-1. Javascript
-1. JQuery
 1. MySQL
 ## Project setup:
 1. Clone the repository using command git clone
