@@ -16,8 +16,8 @@
 1. Start Apache and MYSQL service.
 1. Open your browser.
 1. Go to the address: http://localhost/phpmyadmin
-1. Create a new databse named inter_project
-1. Upload the database file named crud.sql
+1. Create a new databse named sql
+1. Upload the database file named sql.sql
 1. Now the project is completely setup.
 1. Go to http://localhost/PHP-MYSQL-LOGIN-SYSTEM-master/login.php and use the website.
 ## SCREENSHOT
